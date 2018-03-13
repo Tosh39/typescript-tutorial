@@ -4,6 +4,7 @@
 ## 参考ページ
 - [チュートリアルページ](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [基本のデータ型](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [ドキュメンテーション](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 
 
 ## Typescriptのインストール方法
